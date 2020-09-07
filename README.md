@@ -1,5 +1,5 @@
-# python-utilities
+# Python-utilities
 
-## Download Images from RTSP URLs - [link](./downloadImagesRTSP)
+## Download Images from RTSP URLs - [link](./downloadImagesFromRTSP)
 ## Move SubDirectories into Define Folder - [link](./moveFiles)
 
