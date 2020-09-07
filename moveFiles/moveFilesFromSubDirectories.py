@@ -1,8 +1,8 @@
 import os
 #code copies from sub-directory
 
-sourceFolder = '/home/himanshu/Raipur_imageDownload_2020-08-25/'
-destFolder = '/home/himanshu/Raipur_imageDownload_2020-08-25_ImgaesFiles/'
+sourceFolder = './srcDir/'
+destFolder = './destDir/'
 extension = '.jpg'
 
 
