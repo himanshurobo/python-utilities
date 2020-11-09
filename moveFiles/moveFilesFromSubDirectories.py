@@ -1,4 +1,5 @@
 import os
+import shutil
 #code copies from sub-directory
 
 sourceFolder = './srcDir/'
@@ -22,4 +23,4 @@ for root, dirs, files in os.walk(sourceFolder):
                 new_destination = destFolder + file
                 print (old_destination)
                 print (new_destination)
-                os.rename(old_destination,new_destination)
+                shutil.copy(old_destination,new_destination)
